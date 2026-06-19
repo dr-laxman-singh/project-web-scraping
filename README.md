@@ -34,8 +34,8 @@ MINI-PROJECT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/IPL-Auction-Scraper.git
-cd IPL-Auction-Scraper
+git clone https://github.com/dr-laxman-singh/project-web-scraping.git
+cd MINI-PROJECT
 ```
 
 ### 2. Install Dependencies
